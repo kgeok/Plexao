@@ -1,0 +1,31 @@
+master control -0000
+reset -0000
+paper
+settings
+interweb
+internet
+social
+fb
+facebook
+post
+tweet
+twitter
+me
+cancel
+home
+chat
+weather
+stocks
+youtube
+YouTube
+video chat
+psocial
+plexaosocial
+write
+type
+config
+hello
+version
+about
+plexao s
+Plexao S
