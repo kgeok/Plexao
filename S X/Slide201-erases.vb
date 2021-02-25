@@ -1,5 +1,5 @@
 Sub EraseS()
-MsgBox ("All Data will be Erased")Slide201 - 2
+MsgBox ("All Data will be Erased")
 On Error Resume Next
 With SlideShowWindows(1)
 .View.GotoSlide (.Presentation.Slides(14).SlideIndex)
